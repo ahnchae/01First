@@ -11,6 +11,7 @@ public class HelloApp {
 
 
 		System.out.println("test/dev 에서 newMethod 내부수정작업함.");	
+		System.out.println("test/dev 에서 newMethod 내부수정작업함.");	
 
 		
 		System.out.println("new/dev 에서 newMethod 추가추가추가요.");
