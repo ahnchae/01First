@@ -6,7 +6,7 @@ public class HelloApp {
 		// TODO Auto-generated constructor stub
 	}
 	
-	public String newMethod() {
+	public int newMethod() {
 		System.out.println("new/dev 에서 newMethod 추가요.");
 
 
@@ -15,7 +15,7 @@ public class HelloApp {
 		
 		System.out.println("new/dev 에서 newMethod 추가추가추가요.");
 		
-		return "string";
+		return 1;
 	}
 
 	public static void main(String[] args) {
